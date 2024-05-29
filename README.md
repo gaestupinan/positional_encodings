@@ -1,3 +1,3 @@
-Get started by customizing your environment (defined in the .idx/dev.nix file) with the tools and IDE extensions you'll need for your project!
+# Positional encodings as in "Attention is all you need"
 
-Learn more at https://developers.google.com/idx/guides/customize-idx-env
+The program takes a string input and creates the positional encoding as described in the "Attention is all you need" paper. Dimensionality of the encoding is free to choose. 
